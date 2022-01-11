@@ -8,10 +8,10 @@ Skills: JAVA / PYTHON / HIBERNATE / HTML / CSS / MYSQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalshaHasanthi)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BimalshaHasanthi&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BimalshaHasanthi)  
+<!---![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BimalshaHasanthi)--> 
 
-![GitHub metrics](https://metrics.lecoq.io/BimalshaHasanthi)  
+<!---![GitHub metrics](https://metrics.lecoq.io/BimalshaHasanthi)-->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=BimalshaHasanthi)  
 
-![Profile views](https://gpvc.arturio.dev/BimalshaHasanthi)  
+![Profile views](https://gpvc.arturio.dev/BimalshaHasanthi)
