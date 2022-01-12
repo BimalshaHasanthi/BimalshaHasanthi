@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bimalsha Hasanthi
 #### Full - Stack Developer
 
-![GitHub Logo](assets/banner.gif)
+![GitHub Logo](assets/banner1.gif)
 
 Skills: JAVA / PYTHON / HIBERNATE / HTML / CSS / MYSQL 
 
