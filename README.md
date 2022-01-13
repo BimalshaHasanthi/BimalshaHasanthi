@@ -1,4 +1,4 @@
-#Hi there 👋, I'm Bimalsha Hasanthi <br>
+# Hi there 👋, I'm Bimalsha Hasanthi <br>
 ### Full - Stack Developer <br>
 
 ![GitHub Logo](assets/banner1.gif)
