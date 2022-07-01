@@ -3,7 +3,7 @@
 
 ![GitHub Logo](assets/banner1.gif)
 
-##### Skills: JAVA / PYTHON / HIBERNATE / HTML / CSS / MYSQL 
+### Skills: JAVA / PYTHON / HIBERNATE / HTML / CSS / MYSQL 
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BimalshaHasanthi)](https://github.com/ryo-ma/github-profile-trophy)
