@@ -46,6 +46,8 @@
 	  <a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-1D7CE5.svg?logo=intellij-idea&logoColor=black"></a>
 </p>
 
+<br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BimalshaHasanthi)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BimalshaHasanthi&show_icons=true)  
 
