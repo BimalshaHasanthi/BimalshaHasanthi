@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Bimalsha Hasanthi <br><br>
+# Hi there 👋, I'm Bimalsha Hasanthi <br><hr>
 
 ### Full - Stack Developer <br>
 
